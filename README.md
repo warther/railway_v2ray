@@ -138,9 +138,16 @@ addEventListener(
 
 > [更多来自热心网友PR的使用教程](/tutorial)
 
+
 ## 关于CF筛选IP
 
 * 请参考 [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) `推荐`
 * 请参考 [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
 
+
+# Simple v2
+
+## QuickStart
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/gUgRJT?referralCode=rLqwJq)
 
